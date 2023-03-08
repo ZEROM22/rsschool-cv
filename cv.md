@@ -8,14 +8,16 @@
 
 ---
 ## About me:
-I am 26 years old, currently I work in SAP EWM technical support, but I have always dreamed of working as a programmer.<br>
-He graduated from the university with a technical degree, after which he began working with SAP, studying programming in his spare time and doing his own projects using technologies such as React, Bootstrap, MUI, NodeJS, Express, Socket.IO, Mongoose.<br>
-At the moment I am studying at the RS School, the main goal for myself is to learn from people who already work in this field, and to close knowledge gaps.
+I am 26 y.o., currently working as SAP EWM technical support, but I aspire to become frontend developer.<br>
+I have graduated with a technical degree, soon after I began working with SAP. I have been studying programming in my spare time since school and doing pet projects using technologies such as React, Bootstrap, MUI, NodeJS, Express, Socket.IO, Mongoose.<br>
+As for now, I am studying at RS School. My main goal is to gain knowledge from experienced colleagues, who already have frontend work experience, and to close knowledge gaps. 
 ### My strengths
 - Independence
-- Ability to deal with a problem
-- I learn new things quickly
-- Desire to learn and grow in the IT field
+- Problem solving
+- Quick learner
+- High motivation
+- Technical background
+- Analytical thinking
 
 ---
 ## Skills and Proficiency:
@@ -69,15 +71,15 @@ function formatDuration (seconds) {
 
 ---
 ### Experience:
-**TeamIdea (LLC TIMIDEA GROUP)**
-***SAP EWM Consultant***
+**TeamIdea (LLC TIMIDEA GROUP)**<br>
+***SAP EWM Consultant***<br>
 *August 2022 - current time*
 * Support for the operation of the SAP system
 * Escalation of problematic incidents
 * Primary processing and routing of incoming requests
 
-**SIBINTEK LLC IC**
-***SAP Purchasing Lead Specialist***
+**SIBINTEK LLC IC**<br>
+***SAP Purchasing Lead Specialist***<br>
 *October 2020 — August 2022*
 * Support for the operation of the SAP system
 * Implementation of improvements
@@ -86,9 +88,9 @@ function formatDuration (seconds) {
 * Incident resolution
 
 **My pet projects:**
-- Chat room creation function (design copied from Persona 5 video game):<br>
+- Chat with the function of creating rooms (design copied from Persona 5 video game):<br>
 https://persona-chat.herokuapp.com
-- Payment form with validation on the client and server side with saving in mongo atlas (cloud database):<br>
+- Payment form with validation on the client and server side. Data is stored in the cloud in Mongo Atlas:<br>
 https://payment-page.herokuapp.com
 - List of video games for the current year with sorting and filters, RESTful backend, using 3rd party API:<br>
 https://gamelist-current-year.herokuapp.com
